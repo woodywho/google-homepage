@@ -92,6 +92,9 @@ img.google-logo {
     height: 40px !important;
 }
 
+.gsfi:focus {
+    outline: none;
+}
 .RNNXgb {
     background: #fff;
     display: flex;
